@@ -7,7 +7,7 @@
 
 ![impath96's GitHub stats](https://github-readme-stats.vercel.app/api?username=impath96&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impath96&layout=compact)](https://github.com/impath96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=impath96&layout=compact)]()
  
 ## Skills  <img src='https://user-images.githubusercontent.com/54518332/129297935-b083d087-0ef5-4847-af4f-0859c7ec6080.gif' width='30'>
 
